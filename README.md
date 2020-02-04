@@ -1,2 +1,2 @@
 # Mars_test
-Creating/testing a new repository 
+Creating and testing a new repository. Learning how to use GitHub for our IT team department.  
